@@ -1,0 +1,59 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+   height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background: #5e6168;
+}
+
+.login {
+    width: 350px;
+    height: min-content;
+    padding: 20px;
+    border-radius: 12px;
+    background: #ffffff;
+}
+
+.Login h1 {
+    font-size: 36px;
+    margin-bottom: 25px;
+}
+
+.Login form {
+    font-size: 20px;
+}
+
+.Login form .form-group {
+     margin-bottom: 12px;
+     width: 50px;
+}
+
+.Login form input [type="submit"] {
+     font-size: 20px;
+     margin-top: 15px;
+}
+
+input[type=submit] {
+  width: 52%;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=text], input[type="email"], input[type="password"] {
+  width: 90%;
+  padding: 10px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}

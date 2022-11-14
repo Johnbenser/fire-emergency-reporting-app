@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget defaultlocale="en-US" id="io.cordova.myappd8f5b38e89b34787b64d9a3522b23493" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0"
+  xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps">
+    <preference name="loglevel" value="DEBUG" />
+    <feature name="Contacts">
+        <param name="android-package" value="org.apache.cordova.contacts.ContactManager" />
+    </feature>
+    <feature name="SocialSharing">
+        <param name="android-package" value="nl.xservices.plugins.SocialSharing" />
+    </feature>
+    <icon density="ldpi" src="res/icons/drawable-ldpi/ic_launcher.png" />
+    <icon density="mdpi" src="res/icons/drawable-mdpi/ic_launcher.png" />
+    <icon density="hdpi" src="res/icons/drawable-hdpi/ic_launcher.png" />
+    <icon density="xhdpi" src="res/icons/drawable-xhdpi/ic_launcher.png" />
+    <splash src="res/picture2.png" />
+    <name>EMERGENCY Reporting</name>
+    <description>A blank project that uses Apache Cordova to help you build an app that targets multiple mobile platforms: Android, iOS, Windows, and Windows Phone.</description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">Apache Cordova Team </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <access launch-external="yes" origin="tel:*" />
+    <vs:features />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="3000" />
+    <preference name="windows-target-version" value="8.1" />
+    <preference name="windows-phone-target-version" value="8.1" />
+    <preference name="KeepRunning" value="False" />
+    <preference name="ShowTitle" value="True" />
+    <preference name="InAppBrowserStorageEnabled" value="False" />
+    <preference name="SuppressesIncrementalRendering" value="True" />
+    <vs:plugin name="org.apache.cordova.contacts" version="" />
+    <vs:plugin name="org.apache.cordova.geolocation" version="0.3.12" />
+    <vs:plugin name="cordova-plugin-x-socialsharing" version="5.0.7" />
+</widget>

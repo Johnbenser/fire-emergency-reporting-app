@@ -1,0 +1,992 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: PrAr/c16ud5iNSYdLj8wo39uT34=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/navigation/
+ index.html
+SHA1-Digest: PywnD5OJ7yfNkdnhW8XyU8wETlo=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/pages/multi
+ page-template.html
+SHA1-Digest: rjCSg62qoHEloP0FduZJ7d5rNtk=
+
+Name: assets/www/plugins/org.apache.cordova.contacts/www/ContactError.
+ js
+SHA1-Digest: 0GULQ7SH6sNytNL3bHOBptd9J+A=
+
+Name: res/xml/config.xml
+SHA1-Digest: QOXl9DAlJmthr8Ku6Ch7fSIeKD0=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/injected-conten
+ t-is-not-enhanced.html
+SHA1-Digest: kjZbxtHeYYvp24vtDivS0/z2vZc=
+
+Name: assets/www/search nearest/jquerymobile/demos/favicon.ico
+SHA1-Digest: kgDoTwdbRCHBDt/GcHMC4gPdEOI=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/collapsible
+ s/index.html
+SHA1-Digest: 3+aeDecXWP3YgtUKLqTLy/oeguY=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/controlgrou
+ ps/index.html
+SHA1-Digest: MyRUCWwTEWIXBQulFoY+sBn3Z/I=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/how-configure-p
+ honegap-cordova.html
+SHA1-Digest: bU75CwavR6pH103Y6Is5DE5Z4/I=
+
+Name: assets/www/search nearest/jquerymobile/demos/css/themes/default/
+ jquery.mobile.structure-1.3.1.css
+SHA1-Digest: SXO+BbSmGdP4vX1L4y7JkT8VV2Q=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/swipe/swip
+ e-page.css
+SHA1-Digest: e65lDYP8RmKoY0eJqflj21LSMOo=
+
+Name: assets/www/css/style.css
+SHA1-Digest: kffYYS/+ePRymRIPcz9F2/7dRmQ=
+
+Name: assets/www/search nearest/jquerymobile/demos/js/jquery.js
+SHA1-Digest: OHG88V4RWA3Y0J8ENlpWkJVsyCs=
+
+Name: assets/www/images/icon_notes.png
+SHA1-Digest: wGcmj8Anyp3TNG3EBUVzFyk27cY=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/pages/page-
+ template.html
+SHA1-Digest: I858pCW+x1rfjRrTzvRy0VwoulQ=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/backbone-r
+ equire/js/collections/CategoriesCollection.js
+SHA1-Digest: iMwcxfcnEKq7q4gfg3rPEdO8N9w=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: 46FbOHh6Y76kOVZY5Sz4Qj9ZO8c=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/controls-in-hea
+ der-footer.html
+SHA1-Digest: gLS/cdUnYil69oK9KDuLqay5oiQ=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/sliders/ran
+ geslider.html
+SHA1-Digest: uvyfNib20tGofWKKJysEGMc1KXw=
+
+Name: assets/www/plugins/org.apache.cordova.contacts/www/ContactField.
+ js
+SHA1-Digest: zmSaqNcwWROoXpMNMJGQxGU9v38=
+
+Name: assets/www/search nearest/jquerymobile/jquery.mobile-1.3.1.min.m
+ ap
+SHA1-Digest: 2FaKlt8/Z6DqyHeML3TPhrMkteo=
+
+Name: assets/www/plugins/org.apache.cordova.contacts/www/ContactFindOp
+ tions.js
+SHA1-Digest: Nt11TL9FrQXdJ4HGKbcp7PQjRU8=
+
+Name: assets/www/search nearest/jquerymobile/demos/js/jquery.mobile-1.
+ 3.1.min.js
+SHA1-Digest: cD+ei7YzIAPOqPLAi//MJb2uyI0=
+
+Name: assets/www/cordova.js
+SHA1-Digest: qkBUA3eLBbWGD/J7AZIVuFCfDnQ=
+
+Name: res/drawable/screen.png
+SHA1-Digest: mHOwpyEh8zo/62hXlQeBD39wu8k=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/backbone-r
+ equire/js/mobile.js
+SHA1-Digest: eR6gLxefJ7UzwGTyjzZ0MRIAfM0=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/fixed-toolb
+ ars/bars-fixed-forms.html
+SHA1-Digest: 12q7LL7akZ3EOuSzGkwKmLbDSOU=
+
+Name: assets/www/jquery.ui.map.services.js
+SHA1-Digest: XksV6owOXdC6kKqUnoHF0mMlsTw=
+
+Name: assets/www/images/icon_mail.png
+SHA1-Digest: vYpKvHYdfcHmz+NbY+k/o53Pd64=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/dom-ready-not-w
+ orking.html
+SHA1-Digest: z+aqqjxtjM7wJSZ2tZQvZBDo7pM=
+
+Name: assets/www/scripts/platformOverrides.js
+SHA1-Digest: OmckTgwABdFQg1zROB1TpTj28n4=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/sometimes-custo
+ m-select-shows-as-dialog-popup.html
+SHA1-Digest: bNtGCwjN3oUv85hkPrBITSTB0BU=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/dialog/inde
+ x.html
+SHA1-Digest: ZjLfQpAJ+6RdkJXee7o6NVRRG6E=
+
+Name: assets/www/images/iPhoneIcon_Big (1).png
+SHA1-Digest: Od9KuFVsW5e4YYyz3LsvFW5lin0=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/dialog/dial
+ og-success.html
+SHA1-Digest: WZhC6jqJg6++vzgZat8ES+jO1yk=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/tables/col
+ umntoggle-refresh.html
+SHA1-Digest: SgKJ4QSgajAZGn3/jnsHaMb1uhY=
+
+Name: assets/www/search nearest/jquerymobile/demos/search-results.html
+SHA1-Digest: EEd12HmkABafOplNGt2vmghr1c0=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/forms/form-
+ disabled.html
+SHA1-Digest: srsjRhTGDYt9pNFkAtkZmRiKeAg=
+
+Name: assets/www/search nearest/jquerymobile/demos/css/themes/default/
+ images/icons-36-white.png
+SHA1-Digest: XqVqhsxeFWbphItm5CKWl/a1bNc=
+
+Name: assets/www/search nearest/jquerymobile/images/icons-36-black.png
+SHA1-Digest: uydv1Vsrgn1fGn5u2Q8TE/2tn04=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/grids/grid-
+ custom.html
+SHA1-Digest: 62VVqspAzlStziOsKJfttedZyQQ=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/listviews/
+ grid-listview.css
+SHA1-Digest: zyCn0oVfePD2yk9afWNWZqaSwuM=
+
+Name: assets/www/plugins/org.apache.cordova.contacts/www/ContactFieldT
+ ype.js
+SHA1-Digest: RGyP2ut/JfNRjC8cLS9LbeB/Kf0=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/how-does-themin
+ g-work.html
+SHA1-Digest: TD1+jf8PC5cZJjcP3yLT/jDY+Qc=
+
+Name: assets/www/images/iPhoneIcon_Big (3).png
+SHA1-Digest: +bykleP5/ZFFFo56QnvNiU3Mafk=
+
+Name: assets/www/app1.css
+SHA1-Digest: 7jK3IuYDkw+GAkerNpV0SV8+104=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/accordions/
+ index.html
+SHA1-Digest: +U4dQGmrFNyarXdVD+zeH76xkF0=
+
+Name: assets/www/images/Funny-Minion-apple-iPhone-6-Plus-wallpaper1.jp
+ g
+SHA1-Digest: tbwP1b1xCZ7KASThDxzTbOodlWQ=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/popups/arr
+ ow.html
+SHA1-Digest: +I9PuG1FJaluAbRoflioRY6LNSg=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/backbone-r
+ equire/backbone-require.html
+SHA1-Digest: P5xMfZDt7/7HNHSYWD8tXSgGaRU=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/listviews/
+ autodividers-linkbar.js
+SHA1-Digest: DL0o2ZAcNlx91PlmDZzXDJmygTQ=
+
+Name: assets/www/search nearest/jquery.ui.map.js
+SHA1-Digest: pOHXz0H6Qgpag+MIOd1LXEm0iQw=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/how-can-i-stop-
+ auto-enhancement-of-a-block-of-elements.html
+SHA1-Digest: 3S89hPq+HZJWe0/pNDJdyBLJkM4=
+
+Name: assets/www/search nearest/jquerymobile/demos/css/themes/default/
+ images/icons-18-white.png
+SHA1-Digest: clzr5A4uj1FmScmbT8vZnGmER48=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/backbone-r
+ equire/js/libs/require.js
+SHA1-Digest: mJdyQRJv7/+NALGLMMgMwge7ZZw=
+
+Name: assets/www/plugins/org.apache.cordova.contacts/www/ContactAddres
+ s.js
+SHA1-Digest: YWCW6pr0coA9FLEyGjEtamrgjX4=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/panels/pan
+ el-swipe-open.html
+SHA1-Digest: 7TnqUVeyFDjwkCLqq7vldQnGsS8=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: p5M58/Ef0fsnhKYho9zqoMZNbTg=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/buttons/ind
+ ex.html
+SHA1-Digest: T+kS4rI4CIA1l3XiXrMfQrEhIdQ=
+
+Name: assets/www/Fire-icon.png
+SHA1-Digest: ZQfeeJ9ME/73mE1s90o6JvlB6oM=
+
+Name: assets/www/search nearest/index.html
+SHA1-Digest: n83hINS3UEfRkhYrPnAa658fWAs=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/swipe/swip
+ e-page.js
+SHA1-Digest: QmgDxsDZBcqLp+D93CMEOep1y28=
+
+Name: assets/www/main.js
+SHA1-Digest: An/YKoI1n8C9oGGPmJmU3cImk3Q=
+
+Name: assets/www/plugins/org.apache.cordova.contacts/www/ContactName.j
+ s
+SHA1-Digest: uv5oRqBnXo1v5jZTrqr13CseTMs=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/forms/form-
+ gallery.html
+SHA1-Digest: 34/4DsIch9b6z/jfndDYxmyPbzM=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: 2wDlTzrBPEyHu89Qfa93ZBjUBks=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/backbone-r
+ equire/js/libs/lodash.js
+SHA1-Digest: 7TKlqZvpHmYX/OWGna3TFGUdong=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/dialog/dial
+ og-overlay.html
+SHA1-Digest: zFetbPUqqW4ScGfox/qf3xG8u3c=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/swipe/seou
+ l.html
+SHA1-Digest: KVc5fDKqDbP4netW3Gdj6hQhQNQ=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/tables/fin
+ ancial-grouped-columns.html
+SHA1-Digest: 1oZ122TVsiErYRHpzfaubk976Mc=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/navbar/inde
+ x.html
+SHA1-Digest: X/tMa0beBhtk4ymxLoxIxNky91o=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/popup/map.h
+ tml
+SHA1-Digest: 8cXKyhVgLoG1RPZMjPjTuKfUqqc=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/slider/sli
+ der.tooltip.css
+SHA1-Digest: tdZKPHJAFCnCWcfL0WUIU0X+EdM=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/index.html
+SHA1-Digest: wnOvb7ppkhwysg7NKn7ttsiVsmU=
+
+Name: assets/www/search nearest/jquerymobile/demos/intro/index.html
+SHA1-Digest: IpZUizrdg2gJ47c3DWRvHhLO5Rg=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/listviews/
+ autodividers-linkbar.html
+SHA1-Digest: BT/cm1XT9sRAnXufD+SXXBxCx7s=
+
+Name: assets/www/jquery-1.3.2.min.js
+SHA1-Digest: 9DX6GMqrcOn9JTYKphmr+uFf+U0=
+
+Name: assets/www/app2.js
+SHA1-Digest: bx6uXwxU7zPrqf9LsKqWgFJW354=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/fixed-toolb
+ ars/footer-persist-a.html
+SHA1-Digest: 0LwnSM2aLfQUKZ/7OZyjo2DJOCY=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/fixed-toolb
+ ars/footer-persist-b.html
+SHA1-Digest: 2CkhlkJc+oN+Lz7pORPyymx3xdk=
+
+Name: assets/www/search nearest/jquerymobile/demos/css/themes/default/
+ images/ajax-loader.gif
+SHA1-Digest: LhOP9WQHOBOjwslce01kZo13ar0=
+
+Name: assets/www/search nearest/jquerymobile/images/icons-18-white.png
+SHA1-Digest: 41d0p84M9ZsDOmVyT5ystwAuE5w=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/listviews/
+ autodividers-linkbar-demo.html
+SHA1-Digest: cmmRYIJW6dCP4hKif3+QFNtS548=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/popups/dyn
+ amic-popup.html
+SHA1-Digest: 2u4Xceq9O40O5E/3gYssSMZrfuE=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/swipe/swip
+ e-list.html
+SHA1-Digest: Ls9lxK0CmoaLOXHxFqFn80tYkKI=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/swipe/swip
+ e-page.html
+SHA1-Digest: 8xGVQ3fJfd7ZGB8c7RytkRHfSwE=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/forms/form-
+ hide-label.html
+SHA1-Digest: 6BTaiIZqeO0TkDPk5jfrqbTqAbw=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: m0In4bJbUuiGY/FnVl/j6szAljk=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/popup/popup
+ -iframes.html
+SHA1-Digest: Tc8LXwzWzSpISwjw6hGAx3uqBdw=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/triggering-crea
+ te-on-injected-content-does-not-work.html
+SHA1-Digest: enkL7fAb7LgsdcEFZrJHn+K+r/o=
+
+Name: assets/www/search nearest/scripts/platformOverrides.js
+SHA1-Digest: +AhZylXDrAjVAiYjB2nZbY+BC5I=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/popups/jqu
+ ery.mobile.popup.arrow.css
+SHA1-Digest: 5YGYyfHAffay8iI4PEz5ZA9oIxI=
+
+Name: assets/www/search nearest/css/index.css
+SHA1-Digest: v6G5hSlJCabhaHyU6gsmgyGdSDw=
+
+Name: assets/www/search nearest/jquerymobile/demos/search.html
+SHA1-Digest: 0+nczqyjWmbbivhyznPZe8VrywU=
+
+Name: assets/www/modernizr.min.js
+SHA1-Digest: a44Lv6bjU8128PolUUb9gAKTJIQ=
+
+Name: assets/www/search nearest/jquerymobile/jquery.mobile.theme-1.3.1
+ .min.css
+SHA1-Digest: QocFFetqCYCHqlPGOR9Fojgztlo=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/forms/form-
+ label-hidden.html
+SHA1-Digest: ws6Ks/yGXjVX9+BRFn1mBstEqU0=
+
+Name: assets/www/search nearest/jquerymobile/images/icons-36-white.png
+SHA1-Digest: FSc5yBSdrVJoCku06iQdwEKDOOM=
+
+Name: assets/www/police123.png
+SHA1-Digest: I/5sOeS+R81lVHMpzMuQqsW6jy4=
+
+Name: assets/www/search nearest/jquerymobile/demos/css/themes/default/
+ images/icons-18-black.png
+SHA1-Digest: OXObORfabNfq4ny/Qj+L8bvFOSM=
+
+Name: assets/www/search nearest/jquerymobile/jquery.mobile-1.3.1.js
+SHA1-Digest: tdEUy09jk/X12sdRQJ02zxgq/MU=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/transitions
+ /page-transitions-page.html
+SHA1-Digest: V8M8L1L0UOEAILD/fHUaTcmIXKA=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: 7+OjmIk1Iq9JfIYhNJcjCYUTiPM=
+
+Name: assets/www/search nearest/app.css
+SHA1-Digest: ozhPHGqpBdBpi4+7s4/x6aAzCfU=
+
+Name: assets/www/search nearest/gaddi.png
+SHA1-Digest: JPrI7JDwxHmF1oat4zn9JE52nwk=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/how-do-i-contro
+ l-page-titles.html
+SHA1-Digest: ZUYoEYfG+bTA2DI7q3p4C8Xp4Sg=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/popup/popup
+ -examples.css
+SHA1-Digest: b4GScSRj846ZAZtWbt1LaNUuwo8=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/tables/pho
+ ne-compare.html
+SHA1-Digest: 3OQruluc1aneJEAczgvYkdZtMl4=
+
+Name: assets/www/search nearest/jquerymobile/jquery.mobile-1.3.1.min.c
+ ss
+SHA1-Digest: wjqhozu+Qjz4cMktQ6mxNjZHC/0=
+
+Name: assets/www/images/icon_settings.png
+SHA1-Digest: vwmEjj7SkjrYf4EOOGXwbRFCG+4=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/backbone-r
+ equire/js/libs/jquerymobile.js
+SHA1-Digest: 9SWD4neamcb+pTI0gk3slhNBufU=
+
+Name: assets/www/search nearest/jquerymobile/demos/js/jquery.mobile-1.
+ 3.1.min.map
+SHA1-Digest: Y/JgsuC09hqj9L2YwfykXkqt/X8=
+
+Name: assets/www/search nearest/jquerymobile/demos/nav-widgets.html
+SHA1-Digest: x3LrEmZZCZqEE3ZvXXIbo/OZUdA=
+
+Name: assets/www/images/iPhoneIcon_Big (6).png
+SHA1-Digest: bYdYs2S/iyZObWKzfGe8BrDVC7Y=
+
+Name: assets/www/images/icon_youtube.png
+SHA1-Digest: T5Z2T9SYMLKGURb32hd0leorMjs=
+
+Name: assets/www/images/icon_phone.png
+SHA1-Digest: PciEwOeuFQ7Y4KIsMoMFYSdcRDI=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/how-can-i-stop-
+ auto-enhancement-of-elements.html
+SHA1-Digest: MoQrGTchPLUDv2L2/H2+ljbh/S4=
+
+Name: assets/www/search nearest/jquery.ui.map.overlays.js
+SHA1-Digest: vEOBJqdXUk2L4k7plYAArgOyoMs=
+
+Name: assets/www/images/springboard-bar-bg.png
+SHA1-Digest: pgv6go7Urgy2HSsPCwMiu7rFUzk=
+
+Name: assets/www/images/iPhoneIcon_Big.png
+SHA1-Digest: C99121E8oktQRrs++O1fKHoKX4w=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/radiobutton
+ s/index.html
+SHA1-Digest: 5J41l3P3pI11bd8wMov2NdfVEcA=
+
+Name: assets/www/search nearest/jquerymobile/demos/css/themes/default/
+ jquery.mobile-1.3.1.css
+SHA1-Digest: VQ/XbRcFLVIV22F5iyk4nHrPbYA=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/how-do-i-scroll
+ -to-a-position.html
+SHA1-Digest: tP4PMcfR/NfXTJuSlurk3ghpsA0=
+
+Name: assets/www/demo.js
+SHA1-Digest: 6kM+J7411ojrUiMp8LIHL8JnTq8=
+
+Name: assets/www/registration.js
+SHA1-Digest: SwMsqZx19YjHgcAiDzUEG3zZvnI=
+
+Name: assets/www/search nearest/jquery.ui.map.extensions.js
+SHA1-Digest: drsZZ6qJ/XpBRT3RysymgF9xx+8=
+
+Name: assets/www/search nearest/jquerymobile/jquery.mobile-1.3.1.min.j
+ s
+SHA1-Digest: MsIsnBJKm88vzZxSh4eAjfONZx8=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/listviews/i
+ ndex.html
+SHA1-Digest: oXTyk4CSETa2IwfoYbCzOi6a91E=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/slider/sli
+ der.tooltip.js
+SHA1-Digest: bBCZCMdiNA+zSFGLYQ8BZLnh55k=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/scripts-and-sty
+ les-not-loading.html
+SHA1-Digest: VvolU5OCpH0F3MoaAgJ59CHrVp8=
+
+Name: assets/www/images/icon_stocks.png
+SHA1-Digest: Bszg6eGPHHbZK6J3zDogvtk/xm4=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/updating-the-va
+ lue-of-enhanced-form-elements-does-not-work.html
+SHA1-Digest: xDaoHfYSHYV1LQpSpYHQ4FOZHjE=
+
+Name: assets/www/search nearest/jquerymobile/index.html
+SHA1-Digest: UAWi7cOS7CSMhTb993tdjntB6Y4=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/popup/popup
+ -images.html
+SHA1-Digest: 4iGiljcJ9iMgdGG6LPTcjmEzSPg=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/table-colum
+ n-toggle/index.html
+SHA1-Digest: WHH0sKVR8gI9f3/LDdb3/QzSEag=
+
+Name: assets/www/search nearest/jquerymobile/demos/css/themes/default/
+ jquery.mobile.theme-1.3.1.css
+SHA1-Digest: NY0GfzLheKI0D6t4pN6DBAUkEyg=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/listviews/
+ grid-listview-demo.html
+SHA1-Digest: k2EqgpuV3OthR2igCBU6D/hNSK4=
+
+Name: assets/www/jquery-1.7.1.min.js
+SHA1-Digest: l+uwtXOaPT28of00jyv5pNG7+GA=
+
+Name: assets/www/search nearest/jquerymobile/demos/nav-examples.html
+SHA1-Digest: Ngc5wi1u+vpPdfTUG+YWEfN0dZQ=
+
+Name: assets/www/jquery-ui-1.8.17.custom.min.js
+SHA1-Digest: UbbbN9FNtblUbDEQIMP+nEyo+t0=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/popup/popup
+ -examples.js
+SHA1-Digest: quPLXFtQjh6Kdho0TkCyH641Fd8=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/dialog/dial
+ og.html
+SHA1-Digest: Iot7ktJ+mediSisQqDJtLFioa1Q=
+
+Name: assets/www/search nearest/jquerymobile/images/ajax-loader.gif
+SHA1-Digest: CgTLVJDzjgmlV+wMnJ9XdqAIaGw=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/tables/mov
+ ie-list.html
+SHA1-Digest: y6PiQpFhAU0SvPeJfOe4z4qd/Nw=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/backbone-r
+ equire/js/routers/mobileRouter.js
+SHA1-Digest: 8HzVmg8JbgVrVTxHj8WrisdT+hs=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/index.html
+SHA1-Digest: 0qVr9myojiLO/br36V7lMbRQo88=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/pass-via-the-ha
+ sh-to-page.html
+SHA1-Digest: +OGmDwsHNG2nGFHxxPwhK5uYvCs=
+
+Name: assets/www/images/icon_appstore.png
+SHA1-Digest: FVyGH7WEeyBzE/w9/+2kxxnxaPA=
+
+Name: assets/www/images/icon_marcofolio.png
+SHA1-Digest: DJhBZhu/zL9AdkKuigEaH7/cvUc=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/how-do-i-use-to
+ uch-mouse-events.html
+SHA1-Digest: ASUvYr5LkYg7/W+dVKOQeOMl9o0=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/transitions
+ /index.html
+SHA1-Digest: UjE9e2HUeSxsmK/OcS+FjQwhLS0=
+
+Name: assets/www/images/iphone-bg.png
+SHA1-Digest: lzfWcagIu5Bl9kMWHWNi/0cHAc0=
+
+Name: assets/www/search nearest/jquerymobile/demos/search.php
+SHA1-Digest: llb99ghhod0sYzOiZhMF6Qx5UFE=
+
+Name: assets/www/SocialSharing.js
+SHA1-Digest: LvbuUksMUlK+gSlkW1RVm7kmPag=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/fixed-toolb
+ ars/footer-persist-c.html
+SHA1-Digest: yhwVGwzcRuyXnT1UH6rzIhv/Fx8=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/pass-query-para
+ ms-to-page.html
+SHA1-Digest: 1qA8TJgs9+ZrOfzB0EqsdYn9p0U=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/question-templa
+ te.html
+SHA1-Digest: oODtCJ4kSDgM8oAEBXXMKEjtdx0=
+
+Name: assets/_where-is-www.txt
+SHA1-Digest: XyoRHUmqQWhFqkB6tnerFbQr+4I=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/how-do-i-load-a
+ -page.html
+SHA1-Digest: 1Pb/CI2HpJZiYzBii2CAYE6/hBE=
+
+Name: assets/www/search nearest/jquerymobile/demos/css/themes/default/
+ jquery.mobile.theme-1.3.1.min.css
+SHA1-Digest: 3djQKrIzqfiVKn1gJwHF/IPNu2s=
+
+Name: assets/www/plugins/org.apache.cordova.contacts/www/ContactOrgani
+ zation.js
+SHA1-Digest: Jcjl2sT/hmk7bnU1I+1Jk3Un6KU=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/transitions
+ /page-transitions-dialog.html
+SHA1-Digest: gGdsB0wYlmRi7Gw2M8KuIVM2TRo=
+
+Name: assets/www/hospital-building.png
+SHA1-Digest: DzlwAVVCjUsz+rUQmnauaWuj6OM=
+
+Name: assets/www/app1.js
+SHA1-Digest: gQN5CMXgv2o9K40cURvNQeGOHQA=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/popup/index
+ .html
+SHA1-Digest: lJpqQjMmLYHO7RJ90+F5n/mDAtA=
+
+Name: assets/www/search nearest/jquerymobile/demos/css/themes/default/
+ images/icons-36-black.png
+SHA1-Digest: xqDkgqs7xH3LTIy8gzpesOpkdOM=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/backbone-r
+ equire/js/libs/backbone.js
+SHA1-Digest: AKNaYHVGIX5oDmhkfVLE2wd0fDs=
+
+Name: assets/www/search nearest/jquerymobile/demos/global-nav.php
+SHA1-Digest: 5EFGqv5pd5vj8Wl6X4FlzS2YQko=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/swipe/pari
+ s.html
+SHA1-Digest: k7QWfHhvtrqQD4I9qAiu9nMuEv4=
+
+Name: assets/www/1454905881855.jpg
+SHA1-Digest: TGRWjKzvIdEbyZxCJxNY7kwR3m8=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/forms/index
+ .html
+SHA1-Digest: NC1fOWEqLRkJLPLI+HpyNgJjxik=
+
+Name: assets/www/css/index.css
+SHA1-Digest: DA4Sbctm6PG6P5zx2oKQmJIJA24=
+
+Name: resources.arsc
+SHA1-Digest: e/j6P4Xasb0TeIPUj4nr6H+zL8s=
+
+Name: AndroidManifest.xml
+SHA1-Digest: GX6O9cOvShxHU2EwHcUeF1d21LA=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/swipe/newy
+ ork.html
+SHA1-Digest: dUpTYxNI5R4ZKUYLu9y5J+hxgZk=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/swipe/sydn
+ ey.html
+SHA1-Digest: QO9lHEzpe3aN+t3gKrj0QKygtoU=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/autocomplet
+ e/index.html
+SHA1-Digest: tG3ZqoPWqSNjmQAlStiM8UJCmkk=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/selects/ind
+ ex.html
+SHA1-Digest: HfVl+tigZrO+CtsEnfVU5j/81M0=
+
+Name: assets/www/search nearest/jquerymobile/demos/index.html
+SHA1-Digest: ccI/izyW5AjyEJvEdMc1DGjNHE0=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/tables/ref
+ low-refresh.html
+SHA1-Digest: gIyAqABaEjFPcWREw7xEBI7+s+8=
+
+Name: assets/www/search nearest/jquerymobile/demos/global-nav.html
+SHA1-Digest: 8pN7HZRia9Xw+312NencR0pzBZU=
+
+Name: assets/www/search nearest/jquerymobile/demos/intro/rwd.html
+SHA1-Digest: RnUOkz8mtIDuk8Om6CfQYvN3VDI=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/backbone-r
+ equire/js/models/CategoryModel.js
+SHA1-Digest: KjxYfMxYKo+hm/GYR6w2U97WAes=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/the-application
+ -cache-is-not-working.html
+SHA1-Digest: 5VblZcZmL30H5b8GU4F8CTQ/iIU=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/textinputs/
+ index.html
+SHA1-Digest: unhGPgFSIZMaNheHrVFvMqpNlxM=
+
+Name: assets/www/search nearest/jquerymobile/demos/js/jquery.mobile-1.
+ 3.1.js
+SHA1-Digest: FFXxdfKezgCQOuMra/CZaRjBdhE=
+
+Name: assets/www/jquery.mobile.min.js
+SHA1-Digest: 5Q+vLYjWx8sQ9qTja5JHrs2fWc0=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/dialog/dial
+ og-with-select.html
+SHA1-Digest: xIfuxk8QD+9Nm5XJMyR95EuzTE8=
+
+Name: assets/www/images/icon_weather.png
+SHA1-Digest: 1UoCZXj8zO2SPV1OULJ/HImWDQs=
+
+Name: assets/www/search nearest/jquerymobile/jquery.mobile.structure-1
+ .3.1.min.css
+SHA1-Digest: 8EY/Pnw6l4I9wkJGKvTZ2TASWGg=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/popups/pop
+ up.arrow.js
+SHA1-Digest: ahZBWEsOSnrxAaggSqbEPMVhT2U=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/panels/inde
+ x.html
+SHA1-Digest: qBbrQ/dZXbf9yVgO980IqmcsEBw=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/collapsibl
+ es/dynamic-collapsible.html
+SHA1-Digest: MC9dghVNGN2vFnkDzZ0lUyWuOQA=
+
+Name: classes.dex
+SHA1-Digest: NrQJfWkrKXg+TO5SsgwMCnlNkgY=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/checkbox/in
+ dex.html
+SHA1-Digest: J4jcJ7U0HIW8m8nhVqJFDCU4zQo=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/fixed-toolb
+ ars/footer-persist-d.html
+SHA1-Digest: Ix3feA1wA9XUgTj2TfPcxVOOEuo=
+
+Name: res/drawable/icon.png
+SHA1-Digest: uvuielAB8iUnMLObHEXVenPOa+o=
+
+Name: assets/www/images/icon_text.png
+SHA1-Digest: NZOjdhI7ZOOqw6TnubVgvN0rLTM=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/panels/pane
+ l-fixed.html
+SHA1-Digest: CBlzBZd+6ODDMxxUSBVb83S6fGg=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/my-html-5-input
+ s-look-different-in-browsers.html
+SHA1-Digest: Fc+gp2LwuS8fkPg1PmUjaISBMEc=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/grids/grid-
+ buttons.html
+SHA1-Digest: bj9TQH9t1ItZcMNFtwpF+Ri0TpM=
+
+Name: assets/www/images/icon_calendar.png
+SHA1-Digest: kGnqQ1ag1kSxtlKdGZ7UusExXXA=
+
+Name: assets/www/images/iPhoneIcon_Big (2).png
+SHA1-Digest: R+zde2y6cMh6D0+X2tJggQ/gANw=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/swipe/cape
+ town.html
+SHA1-Digest: FutSMeMdtLDvdETuOfDi+aPQS2U=
+
+Name: assets/www/scripts/android2.3-jscompat.js
+SHA1-Digest: M+YprvBURn59YaNj/kov71/PJ/k=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/footers/ind
+ ex.html
+SHA1-Digest: DxqaLSzMWSTSVgcpHPW/iJ8T5sQ=
+
+Name: assets/www/search nearest/jquerymobile/jquery.mobile-1.3.1.css
+SHA1-Digest: dOsRnAWkfLjbGE1L6dIXfWRyax0=
+
+Name: assets/www/images/icon_camera.png
+SHA1-Digest: YDLFMHEQ8cBbhyWswdFbW8MPiAw=
+
+Name: assets/www/images/icon_ipod.png
+SHA1-Digest: L8zqCIKiRTVnac0N9d02wvE8fa0=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/index.html
+SHA1-Digest: CZI8tLSa4d2IAv9oTWPTCjiRh6M=
+
+Name: assets/www/images/icon_calculator.png
+SHA1-Digest: ev8wlehVPzxcj1pkHseSzBc8NcM=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/selects/cus
+ tom-selects.html
+SHA1-Digest: S6XeIx+K0hSwcq+4i7sr2UVMc9g=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/headers/ind
+ ex.html
+SHA1-Digest: gsZdDdRa/oob9ZZhA2knMiMpbMg=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/listviews/
+ autodividers-selector.html
+SHA1-Digest: GVrttomkTvgxbHXb8wWaxrOpJD8=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/listviews/
+ autodividers-linkbar.css
+SHA1-Digest: hd+iG7c66+dpp1FOtfUdWzU7eOw=
+
+Name: assets/www/js/iphone-springboard.js
+SHA1-Digest: /JgNu9b6GffU2/NFvIeiVBvo5GA=
+
+Name: assets/www/search nearest/jquery-1.10.1.min.js
+SHA1-Digest: zpPLUBybv/vZby4WtvTbXtWqf5w=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/sliders/swi
+ tch.html
+SHA1-Digest: +Zv3rO+Es9RQEtHZx23CfCiEFzE=
+
+Name: assets/www/plugins/org.apache.cordova.contacts/www/Contact.js
+SHA1-Digest: A5itfyV4gXqlNkGDc9SJBDOnaEc=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/fixed-toolb
+ ars/bars-fullscreen.html
+SHA1-Digest: l7A7zhfYiKA5zUiOfCPDwcrfTlg=
+
+Name: assets/www/plugins/org.apache.cordova.contacts/www/contacts.js
+SHA1-Digest: n87vvwtkS0f0Sakvx6bLzw5TrHw=
+
+Name: assets/www/images/icon_itunes.png
+SHA1-Digest: ZbbKzuRlnfV7GIsZ6V/1TojDUro=
+
+Name: assets/www/app.js
+SHA1-Digest: DI66VS2Ya2zA5ic1ZYF7az4udf8=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/my-range-search
+ -input-type-is-being-changed.html
+SHA1-Digest: zKTs/yYLOcuoAyGtW+2nLOpKJPo=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/dialog/dial
+ og-noclosebtn.html
+SHA1-Digest: TE8O9syVoiRc/osqHwDmgCcycAQ=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/navigation/
+ demo.js
+SHA1-Digest: dHs4tmIINn1UcbCZlGqmmV0sYRs=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/sliders/ind
+ ex.html
+SHA1-Digest: MzvK0oRn46VWb9darju6Q/Qr44A=
+
+Name: assets/www/images/water.jpg
+SHA1-Digest: ZGFuXLnVdliUz7Th1shQkHSua38=
+
+Name: assets/www/images/icon_safari.png
+SHA1-Digest: XSDLZUiWg0Eo0A4/siMTNXQAOac=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/panels/pan
+ el-styling.html
+SHA1-Digest: YxLFcDmCx0kKtIJHyelDdS6A+6M=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/table-reflo
+ w/index.html
+SHA1-Digest: dfSTorEGg2kvLLPucoz9a2LWOsI=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/forms/form-
+ fieldcontain.html
+SHA1-Digest: fBSGb+lCz/wr1YEM+hsY8IeezUA=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/grids/index
+ .html
+SHA1-Digest: W6I6ZDa0dZ+bex5wPCT0e2aaC5o=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/icons/index
+ .html
+SHA1-Digest: vWoJqiLo5ffJ32QmZ1NZn3s9Imo=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/links/index
+ .html
+SHA1-Digest: MPOZu/DGhmB0M2MxJr8TARru4oY=
+
+Name: assets/www/index.html
+SHA1-Digest: uyfhxfG9y9lKh7Sj+Jv3q1F6f+0=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/dialog/dial
+ og-alt.html
+SHA1-Digest: BSr0jBpXEB9a4FrygY/B4wz4ev8=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/why-is-only-the
+ -first-page-loaded.html
+SHA1-Digest: uw7hy/4uYprHqYTrbmLIFx4djlU=
+
+Name: assets/www/images/iPhoneIcon_Big (5).png
+SHA1-Digest: 2Eia867YSlbRztVqxU7LrgD+SG0=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/loader/inde
+ x.html
+SHA1-Digest: VvdRkSNRou159o4cZr8wEepb4cU=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/swipe/buen
+ osaires.html
+SHA1-Digest: Nm5qSDTxUf/Tp9og70fnTNWFsuk=
+
+Name: assets/www/images/icon_clock.png
+SHA1-Digest: aFX/xv0FMb0U9voUInOekBRTBhI=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/autocomplet
+ e/autocomplete-remote.html
+SHA1-Digest: u0MULK5obfz7kLj1aa8vHILedGU=
+
+Name: assets/www/search nearest/jquerymobile/demos/css/themes/default/
+ jquery.mobile.structure-1.3.1.min.css
+SHA1-Digest: napCESsuuzP0Y+gQjFpnLMYoIm0=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/dialog/dial
+ og-rightclosebtn.html
+SHA1-Digest: H2StiFN0Lu/ja5KcmpRhg66PsH4=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/dialog/dial
+ og-buttons.html
+SHA1-Digest: VRk8VrYax+deM00nJ5d0J32rs1I=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/fixed-toolb
+ ars/index.html
+SHA1-Digest: jaxm00GvMKAfNBujOVZuKR/Tkdg=
+
+Name: assets/www/images/icon_photos.png
+SHA1-Digest: BqntVWeU9ea7zDyXnbfCGy/juuM=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/pages/index
+ .html
+SHA1-Digest: 4thnZvkLWBpJlVCGD6wsY761z54=
+
+Name: assets/www/search nearest/currentLocation1.png
+SHA1-Digest: 9AZ5P3v5fKY7kd70g+FC8WTNy8I=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/backbone-r
+ equire/js/views/CategoryView.js
+SHA1-Digest: oGPyCVREUmhLyS5itkR/YWF0TOQ=
+
+Name: assets/www/js/jquery-1.3.1.min.js
+SHA1-Digest: h7U7qZDiB9NBKlsekkknjtWHMh4=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/tables/fin
+ ancial-grouped-reflow.html
+SHA1-Digest: Alw6PVNzH+liPkZ0+lvMZ9KIM8c=
+
+Name: assets/www/search nearest/jquerymobile/images/icons-18-black.png
+SHA1-Digest: 0Kp6TwR/2Ml+SbvMOpF/69GILY0=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/slider/too
+ ltip.html
+SHA1-Digest: ZimwfRp223nMiabx31maUdW7JLI=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/tables/mov
+ ie-list-toggle-options.html
+SHA1-Digest: 2rhNKMWnLkcd1nLA085P2xr3LvI=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/listviews/
+ grid-listview.html
+SHA1-Digest: qYU45CWDy2rPuSfmY6xnXrX75F8=
+
+Name: assets/www/search nearest/jquerymobile/jquery.mobile.structure-1
+ .3.1.css
+SHA1-Digest: BUJ91v5HG285xDlWUtQ4mnlOyoE=
+
+Name: assets/www/plugins/cordova-plugin-x-socialsharing/www/SocialShar
+ ing.js
+SHA1-Digest: e85FhR+aFnOxIJfXj/X2y4IdgIk=
+
+Name: assets/www/search nearest/jquerymobile/jquery.mobile.theme-1.3.1
+ .css
+SHA1-Digest: WqVLoApWAdp95+miOTL/2dgDcPA=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/backbone-r
+ equire/js/libs/jquery.js
+SHA1-Digest: H9Wm8T8voqsjnkiQX+3nwNIK9qw=
+
+Name: assets/www/scripts/index.js
+SHA1-Digest: 1pFLKN7+6BMaIzJpKELbzzYUu00=
+
+Name: assets/www/search nearest/jquerymobile/demos/faq/disabling-a-but
+ ton-does-not-work.html
+SHA1-Digest: BvKtymKxBKfiktalxsMX2tozkg0=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/controlgro
+ ups/dynamic-controlgroup.html
+SHA1-Digest: 2L9/TVC00UJaRhtqLCCHLXHwzyE=
+
+Name: assets/www/app3.js
+SHA1-Digest: 5miRTufGnfgUZ7frI1NGRolH+bg=
+
+Name: assets/www/search nearest/jquerymobile/demos/css/themes/default/
+ jquery.mobile-1.3.1.min.css
+SHA1-Digest: 5obhwKnMXkTkfUIA+kot3/TUlZQ=
+
+Name: assets/www/images/icon_respring.png
+SHA1-Digest: HUmwheYdsjbD1J5FYZneWs3B+AA=
+
+Name: assets/www/currentLocation1.png
+SHA1-Digest: JBHNf93D+A9u8sbyJNZJj5AJ89U=
+
+Name: assets/www/search nearest/jquerymobile/demos/examples/backbone-r
+ equire/index.html
+SHA1-Digest: HR225WKqsP5SWF/e6E3/WL3utf0=
+
+Name: assets/www/search nearest/scripts/index.js
+SHA1-Digest: GdvoP2glnh/OJz8o0mCKpSCmdvI=
+
+Name: assets/www/search nearest/jquerymobile/demos/widgets/dialog/dial
+ og-corners.html
+SHA1-Digest: asf6jfUQRXwXrVkF4TzQpiIThrY=
+
+Name: assets/www/search nearest/jquerymobile/demos/nav-faq.html
+SHA1-Digest: BEKuNpy1Iv0x68LdcgORX52oOz8=
+
+Name: assets/www/images/icon_maps.png
+SHA1-Digest: WGTA7hzKKFro9NJ3uBKWGVBTIFQ=
+
+Name: assets/www/VSBuildInfo.xml
+SHA1-Digest: sDbkTrWHiUDJTqU892hTqcLGklA=
+
